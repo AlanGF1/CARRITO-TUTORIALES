@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Spider-Man spider-verse",
+        "author": "Dan slott",
+        "price": 409,
+        "img":"https://m.media-amazon.com/images/I/510lduaZm1L._SY445_SX342_.jpg",
+        "quanty": 1
+        
+    },
+    {
+        "id": 2,
+        "name": "Spider-Man LA SOMBRA DE LA ARAÑA",
+        "author": "Chip Zdrasky",
+        "price": 305,
+        "img":"https://m.media-amazon.com/images/I/513hWoY3qbL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "THE AMAZING SPIDER-MAN (2023)",
+        "author": "Zeb Wells",
+        "price": 233,
+        "img":"https://m.media-amazon.com/images/I/81gnBckEadL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "SPIDER-MAN NOIR",
+        "author": "Hine",
+        "price": 431,
+        "img":"https://m.media-amazon.com/images/I/61YPqCPntuL._SY342_.jpg",
+        "quanty": 1
+
+    },
+    {
+        "id": 5,
+        "name": "THE AMAZING SPIDER-MAN (2023) #01",
+        "author": "Zeb Wells",
+        "price": 410,
+        "img":"https://m.media-amazon.com/images/I/71pcW2QypWL._SY342_.jpg",
+        "quanty": 1
+
+    }
+    
+    
+       
+]
